@@ -1,0 +1,12 @@
+1-columns,rows?
+2-wat type of?
+3-missing data?
+ info()
+ meathod
+
+ 1-number of rows and columns
+ 2-columns name
+ 3-in64 float 64 object
+ 4-non null counts
+ 5-memory usage of the data frame
+ 
